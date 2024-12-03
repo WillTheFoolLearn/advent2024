@@ -32,7 +32,7 @@ def main():
             
     print(total)
 
-    return
+    return total
 
 if __name__ == "__main__":
     main()
